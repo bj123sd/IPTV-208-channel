@@ -175,8 +175,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青海|西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 青海|西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 北京地方,#genre#
-检索时间：18 秒
-搜索源：1
 CETV1,http://49.232.181.26:6000/rtp/225.1.8.32:8152
 CETV2,http://49.232.181.26:6000/rtp/225.1.8.193:4120
 CETV4,http://49.232.181.26:6000/rtp/225.1.8.195:4120
