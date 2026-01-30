@@ -317,7 +317,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 黑龙江延寿综合[1024*576],https://masterpull.hljtv.com/live/XBqKssjB.m3u8
 黑龙江依安综合,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
 黑龙江依兰综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
-黑龙江移动,#genre#
 黑龙江影,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
 黑龙江影视[768*576],http://39.134.67.226/PLTV/88888888/224/3221225971/index.m3u8
 黑龙江影视,http://39.134.67.226/PLTV/88888888/224/3221225973/index.m3u8
