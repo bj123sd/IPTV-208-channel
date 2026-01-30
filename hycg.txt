@@ -767,6 +767,9 @@ ChannelVSD,http://171.213.135.213:4022/rtp/239.94.2.56:5140
 未知节目SD,http://171.213.135.213:4022/rtp/239.94.2.3:5140
 未知节目SD,http://171.213.135.213:4022/rtp/239.94.2.5:5140
 港澳台,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
