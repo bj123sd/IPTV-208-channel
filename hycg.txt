@@ -769,3 +769,383 @@ TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
 寰宇新聞台720p,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 寰宇新聞台720p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V0QGAk&tk=2nDfMgqDmiqe
 寰宇新聞台1080p,https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
+临时台,#genre#
+鳳凰資訊,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/88.ts
+無線新聞,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/13.ts
+中天新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/161.ts
+东森新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/162.ts
+TVBS新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/163.ts
+三立新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/166.ts
+台视新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/174.ts
+民视新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/164.ts
+中视新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/168.ts
+寰宇新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/170.ts
+年代新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/165.ts
+壹电视新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/172.ts
+镜电视新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/173.ts
+非凡新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/167.ts
+Now新聞,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/29.ts
+Now財經,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/30.ts
+华视新闻信息,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/169.ts
+寰宇新闻台湾,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/171.ts
+三立财经新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/370.ts
+SBN 全球财经,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/371.ts
+东森财经新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/369.ts
+寰宇财经台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/379.ts
+台视财经台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/373.ts
+非凡商业台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/372.ts
+CNN国际新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/382.ts
+CNN头条新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/383.ts
+HOY資訊,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/22.ts
+HOY香港國際財經,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/23.ts
+BBC World,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/384.ts
+FRANCE24,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/386.ts
+VOA美国之音,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/389.ts
+半岛国际新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/385.ts
+CNBC Asia 财经,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/390.ts
+彭博Bloomberg,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/387.ts
+AI 倪珍播新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/368.ts
+上海第一财经,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/588.ts
+CGTN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/579.ts
+TVB NEWS,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/444.ts
+美国旧金山,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/467.ts
+加拿大600新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/449.ts
+TVB 无线新闻海外,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/454.ts
+东森美洲新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/471.ts
+TVB 娱乐新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/670.ts
+凤凰资讯,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/747.ts
+Aljazeera,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/752.ts
+Bloomberg TV,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/756.ts
+BBC World,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/751.ts
+CGTN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/760.ts
+CNA亚洲新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/754.ts
+CNN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/750.ts
+CNBC,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/755.ts
+DW English,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/758.ts
+France 24,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/759.ts
+SkyNews,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/753.ts
+ABC Australia,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/757.ts
+CNN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/874.ts
+日テレNEW,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/871.ts
+BBCワールドニュース,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/873.ts
+TV台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/2.ts
+TVBPlus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/4.ts
+TVB明珠 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/5.ts
+ViuTV ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/6.ts
+TVB 翡翠台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/7.ts
+TVBPlus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/11.ts
+TVB明珠台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/10.ts
+TVB翡翠台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/12.ts
+TVBPlus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/14.ts
+TVBPlus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/15.ts
+TVB 明珠台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/16.ts
+ViuTV Six,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/32.ts
+ViuTV ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/49.ts
+鳳凰衛視 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/18.ts
+鳳凰香港,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/19.ts
+鳳凰衛視電影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/20.ts
+HOY,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/21.ts
+RTHK 31,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/24.ts
+RTHK 32,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/25.ts
+Now 直播台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/31.ts
+Now Viu劇集,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/33.ts
+Now 華劇台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/34.ts
+Now 華劇台(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/35.ts
+Now Jelli 紫金 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/36.ts
+HBO ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/37.ts
+MOVIE,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/38.ts
+Cinemax ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/39.ts
+Now星影台(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/40.ts
+Now星影台(粤),http://74.91.26.218:82/live/nowxy.m3u8
+Now爆谷台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/41.ts
+美亞電影台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/42.ts
+美亞電影台 (國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/43.ts
+中國電影頻道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/44.ts
+POPC,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/45.ts
+KIX ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/46.ts
+Love Nature,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/69.ts
+Global Treker ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/70.ts
+DreamWorks(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/73.ts
+DreamWorks(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/74.ts
+卡通頻道(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/75.ts
+卡通頻道(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/76.ts
+BBC CBeebies(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/77.ts
+Da Vinci 達文西頻道 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/78.ts
+ROCK Entertainment ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/71.ts
+ROCK Action ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/72.ts
+AXN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/79.ts
+Animax,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/80.ts
+tvN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/81.ts
+Fashion Box,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/84.ts
+Mezzo Live,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/85.ts
+鳳凰中文,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/87.ts
+鳳凰香港,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/86.ts
+TVB SUPER-FREE(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/47.ts
+TVB SUPER-FREE(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/50.ts
+TVB 黃金翡翠台 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/52.ts
+TVB 千禧經典台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/53.ts
+TVB 亞洲劇台 (原聲) ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/54.ts
+TVB 亞洲劇台 (粵) ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/55.ts
+TVB 華語劇台 (粵) ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/56.ts
+TVB 華語劇台 (國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/57.ts
+TVB 黃金華劇台 (粵) ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/58.ts
+TVB 黃金華劇台 (國) ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/59.ts
+TVB 娛樂新聞台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/60.ts
+TVB 戲曲台 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/61.ts
+SUPER Kids Channel ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/62.ts
+ZooMoo ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/63.ts
+尼克兒童 Nickelodeon ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/64.ts
+TVB 粵語片台 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/65.ts
+Thrill,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/66.ts
+天映經典(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/67.ts
+天映經典(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/68.ts
+天映頻道(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/124.ts
+天映頻道(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/125.ts
+TVB 功夫台(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/118.ts
+TVB 功夫台(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/119.ts
+TVB 星河(國),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/121.ts
+TVB 星河(粵),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/120.ts
+TVB Pearl Drama 明珠劇集台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/117.ts
+TVB 生活台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/126.ts
+SUPER 獎門人,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/127.ts
+SUPER EYT,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/128.ts
+SUPER 識食,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/129.ts
+SUPER 識歎,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/130.ts
+SUPER Music,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/131.ts
+SUPER 金曲,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/132.ts
+SUPER 煲劇,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/133.ts
+SUPER 劇場,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/134.ts
+SUPER 話當年,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/135.ts
+星空衛視,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/145.ts
+香港C＋頻道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/147.ts
+Channel V 音樂台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/143.ts
+澳視澳門台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/150.ts
+澳視衛星台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/151.ts
+澳門蓮花衛視,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/148.ts
+澳門體育台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/152.ts
+Now Sports Plus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/114.ts
+Now Golf2,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/115.ts
+Now Golf3,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/116.ts
+SUPER Sports,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/48.ts
+民视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/156.ts
+中视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/159.ts
+华视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/158.ts
+台视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/157.ts
+公视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/160.ts
+中天综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/175.ts
+中天娱乐台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/176.ts
+中天亚洲台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/177.ts
+东森综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/178.ts
+东森电影台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/179.ts
+东森戏剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/180.ts
+东森洋片台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/181.ts
+TVBS综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/182.ts
+TVBS欢乐台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/183.ts
+TVBS精采台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/184.ts
+TVBS台剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/186.ts
+TVBS综艺台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/185.ts
+三立综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/187.ts
+三立台湾台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/188.ts
+三立戏剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/190.ts
+三立都会台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/189.ts
+中视经典台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/196.ts
+中视菁采台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/197.ts
+民视台湾台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/192.ts
+民视影剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/194.ts
+民视旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/195.ts
+民视第一台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/191.ts
+民视综艺台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/193.ts
+台视综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/198.ts
+公视3,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/200.ts
+公视台语台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/199.ts
+公视戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/201.ts
+HBO,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/202.ts
+HBO Family,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/204.ts
+HBO Hits,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/205.ts
+HBO Signature,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/203.ts
+HBO LOGO,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/206.ts
+CINEMAX,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/207.ts
+美亚电影台湾台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/208.ts
+好莱坞电影台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/210.ts
+壹电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/222.ts
+龙祥时代电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/209.ts
+私人影院,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/225.ts
+影迷数位纪实台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/214.ts
+影迷数字电影台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/218.ts
+My Cinema Europe,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/220.ts
+WarnerTV,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/221.ts
+AMC最爱电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/219.ts
+AXN ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/211.ts
+CATCHPLAY 电影台 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/216.ts
+CI 罪案侦查,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/213.ts
+Cinema World,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/215.ts
+CNEX,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/217.ts
+HITS,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/212.ts
+Lifetime,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/223.ts
+tvN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/224.ts
+纬来综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/229.ts
+纬来戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/230.ts
+纬来日本,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/227.ts
+纬来电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/231.ts
+纬来精彩,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/232.ts
+纬来育乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/228.ts
+龙华偶像,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/236.ts
+龙华卡通,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/239.ts
+龙华戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/235.ts
+龙华日韩,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/234.ts
+龙华洋片,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/238.ts
+龙华电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/233.ts
+龙华经典,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/237.ts
+八大综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/241.ts
+八大娱乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/245.ts
+八大戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/242.ts
+八大第一台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/244.ts
+八大精彩台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/240.ts
+八大综艺台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/243.ts
+ELTA 爱尔达娱乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/252.ts
+ELTA 爱尔达影剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/248.ts
+ELTA 爱尔达日韩台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/250.ts
+ELTA 爱尔达生活旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/251.ts
+ELTA 爱尔达综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/249.ts
+靖天综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/279.ts
+靖天卡通,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/277.ts
+靖天戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/275.ts
+靖天日本,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/280.ts
+靖天映画,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/281.ts
+靖天欢乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/284.ts
+靖天电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/282.ts
+靖天育乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/283.ts
+靖天资讯,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/285.ts
+靖洋戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/276.ts
+靖洋卡通,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/278.ts
+靖天国际,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/286.ts
+探索频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/287.ts
+探索亚洲,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/288.ts
+探索动力,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/290.ts
+探索科学,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/289.ts
+历史频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/293.ts
+历史频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/292.ts
+国家地理,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/294.ts
+动物星球,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/295.ts
+亚洲美食,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/300.ts
+Discovery EVE,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/291.ts
+Smart 知识台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/331.ts
+TLC 旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/298.ts
+Love Nature ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/296.ts
+BBC Earth,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/304.ts
+BBC Lifestyle,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/305.ts
+Asia 亚洲旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/297.ts
+Travel Channel 旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/299.ts
+居家乐活频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/303.ts
+美食星球,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/301.ts
+幸福空间居家台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/347.ts
+东森幼幼台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/308.ts
+卡通频道 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/314.ts
+卡通台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/318.ts
+达文西频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/316.ts
+梦工厂动画,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/317.ts
+尼克儿童频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/312.ts
+MOMO,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/313.ts
+Animax,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/310.ts
+BBC Cbeebies,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/319.ts
+Baby,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/320.ts
+Boomerang,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/309.ts
+Nick Jr.儿童,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/311.ts
+爱放动漫台 I-Fun ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/315.ts
+经典卡通台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/360.ts
+高点综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/324.ts
+JET 综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/322.ts
+MOMO 综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/321.ts
+ETtoday 综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/367.ts
+EYE 戏剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/307.ts
+EYE 旅游台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/306.ts
+ROCK Action,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/328.ts
+ROCK Entertainment,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/327.ts
+ROCK Extreme,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/329.ts
+Z频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/339.ts
+东风卫视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/340.ts
+彩昌影剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/355.ts
+经典电影台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/359.ts
+华艺中文台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/345.ts
+台湾戏剧台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/325.ts
+无线卫星亚洲台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/332.ts
+INULTRA,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/363.ts
+Fashion,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/341.ts
+Fun 探索娱乐台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/356.ts
+Global Trekker,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/333.ts
+Channel V 音乐台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/357.ts
+LUXE TV Channel,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/362.ts
+Mezzo Live,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/343.ts
+Moonbug ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/364.ts
+年代MUCH台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/358.ts
+电影原声台 CMusic,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/326.ts
+音乐频道 MTV Live,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/344.ts
+MTV Asia ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/330.ts
+TRACE Urban,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/342.ts
+猪哥亮歌厅秀,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/354.ts
+古典乐 CLASSICA ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/348.ts
+GINX Esports,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/334.ts
+博斯 Pace Spor,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/365.ts
+时尚运动X,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/346.ts
+环球旅行家),http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/302.ts
+生活時尚,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/361.ts
+金光布袋戏,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/352.ts
+霹雳台湾台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/351.ts
+Arirang,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/350.ts
+韩国娱乐台 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/349.ts
+麦哲伦频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/366.ts
+原住民族电视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/381.ts
+客家电视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/380.ts
+国会频道1,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/393.ts
+国会频道2,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/394.ts
+国兴卫视 ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/338.ts
+东森购物1台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/375.ts
+东森购物2台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/376.ts
+东森购物3台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/377.ts
+东森购物5台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/378.ts
+东森超视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/374.ts
+大爱电视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/396.ts
+大爱二台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/397.ts
+好消息,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/401.ts
+好消息2台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/402.ts
+华藏卫视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/398.ts
+人间卫视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/395.ts
+十方法界,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/400.ts
+希望频道,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/405.ts
+诚心电视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/403.ts
+生命电视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/404.ts
+无上师电视台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/399.ts
+NHK WORLD JAPAN,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/388.ts
+ELTV生活英语台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/392.ts
+LiveABC互动英语,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/391.ts
+Cinemax ,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/430.ts
+好莱坞电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/409.ts
+JET 综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/408.ts
+MOMO 综合台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/436.ts
+MOMO 亲子台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/435.ts
+TVBS,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/412.ts
+TVBS 欢乐台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/413.ts
+东森幼幼,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/414.ts
+东森戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/416.ts
+东森综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/415.ts
+东森财经,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/417.ts
+中天娱乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/411.ts
+中天综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/410.ts
+三立新闻,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/418.ts
+三立台湾台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/419.ts
+三立都会台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/420.ts
+国兴卫视,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/431.ts
+壹新闻台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/407.ts
+年代新闻台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/406.ts
+年代MUCH台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/434.ts
+纬来戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/426.ts
+纬来日本,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/427.ts
+纬来电影,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/429.ts
+纬来综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/425.ts
+纬来育乐,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/428.ts
+八大综合,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/421.ts
+八大戏剧,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/423.ts
+八大第一,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/422.ts
+动物星球,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/433.ts
+TLC旅遊生活台,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/432.ts
+TaiWan Plus,http://iptvpro.pw:35451/live/加QQ群1067462089/49RUTG7Q/437.ts
