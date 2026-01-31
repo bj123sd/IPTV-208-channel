@@ -770,6 +770,95 @@ TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
 寰宇新聞台720p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V0QGAk&tk=2nDfMgqDmiqe
 寰宇新聞台1080p,https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
 临时台,#genre#
+🇭🇰香港,#genre#
+TVB 翡翠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/2.ts
+TVB 翡翠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/12.ts
+TVB 翡翠台1080p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/7.ts
+TVB 明珠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/16.ts
+TVB 明珠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/5.ts
+TVB 明珠台1080p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/10.ts
+TVB Plus 720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/4.ts
+TVB Plus 720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/14.ts
+TVB Plus 720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/15.ts
+TVB Plus 1080p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/11.ts
+ViuTV 720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/49.ts
+ViuTV 1080p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/6.ts
+ViuTV6 720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/32.ts
+鳳凰衛視 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/18.ts
+鳳凰香港 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/19.ts
+HOY TV (開電視) (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/21.ts
+RTHK 31 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/24.ts
+RTHK 32 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/25.ts
+RTHK 33 CCTV1 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/26.ts
+RTHK 34 CGTN記錄 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/27.ts
+RTHK 35 CGTN (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/28.ts
+Now 直播台 CH331 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/31.ts
+Now Viu劇集台 CH102 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/33.ts
+Now 華劇台 (粵) CH105 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/34.ts
+Now 華劇台 (國) CH105  (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/35.ts
+Now Jelli 紫金 CH108 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/36.ts
+MOVIE MOVIE CH116 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/38.ts
+Cinemax CH118 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/39.ts
+KIX CH304 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/46.ts
+Love Nature 4K CH403 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/69.ts
+Global Treker CH407 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/70.ts
+DreamWorks (粵) CH440 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/73.ts
+DreamWorks (國) CH440 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/74.ts
+卡通頻道 (粵) CN CH443 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/75.ts
+卡通頻道 (國) CN CH443 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/76.ts
+BBC CBeebies (粵) CH447 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/77.ts
+Da Vinci 達文西頻道 CH460 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/78.ts
+ROCK Entertainment CH501 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/71.ts
+ROCK Action CH502 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/72.ts
+AXN CH503 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/79.ts
+Animax CH504 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/80.ts
+tvN CH505 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/81.ts
+Fashion Box CH603 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/84.ts
+Mezzo Live CH604 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/85.ts
+鳳凰中文台 CH610 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/87.ts
+鳳凰香港台 CH612 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/86.ts
+TVB SUPER-FREE (粵) CH01 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/47.ts
+TVB SUPER-FREE (國) CH001 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/50.ts
+TVB 黃金翡翠台 CH080 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/52.ts
+TVB 千禧經典台 CH086 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/53.ts
+TVB 亞洲劇台 (原聲) CH087  (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/54.ts
+TVB 亞洲劇台 (粵) CH087 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/55.ts
+TVB 華語劇台 (粵) CH089 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/56.ts
+TVB 華語劇台 (國) CH089 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/57.ts
+TVB 黃金華劇台 (粵) CH090 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/58.ts
+TVB 黃金華劇台 (國) CH090 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/59.ts
+TVB 娛樂新聞台 CH091 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/60.ts
+TVB 戲曲台 CH098 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/61.ts
+SUPER Kids Channel CH100 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/62.ts
+ZooMoo CH101 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/63.ts
+尼克兒童 Nickelodeon CH104 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/64.ts
+TVB 粵語片台 CH200 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/65.ts
+Thrill CH202 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/66.ts
+TVB 功夫台 (粵) (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/118.ts
+TVB 功夫台 (國) (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/119.ts
+TVB 星河 (國) (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/121.ts
+TVB 星河 (粵) (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/120.ts
+TVB Pearl Drama 明珠劇集台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/117.ts
+TVB 生活台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/126.ts
+SUPER 獎門人 CH02 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/127.ts
+SUPER EYT CH03 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/128.ts
+SUPER 識食 CH04 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/129.ts
+SUPER 識歎 CH05 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/130.ts
+SUPER Music CH06 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/131.ts
+SUPER 金曲 CH07 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/132.ts
+SUPER 煲劇 CH08 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/133.ts
+SUPER 劇場 CH09 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/134.ts
+SUPER 話當年 CH10 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/135.ts
+香港C＋頻道 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/147.ts
+Channel V 音樂台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/143.ts
+澳視澳門台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/150.ts
+澳視衛星台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/151.ts
+澳門蓮花衛視 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/148.ts
+澳門體育台 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/152.ts
+Now Sports Plus CH680 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/114.ts
+Now Golf 2 CH683 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/115.ts
+Now Golf 3 CH684 (HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/116.ts
+SUPER Sports CH11(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/48.ts
 🇹🇼台湾,#genre#
 民视 (TW),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/156.ts
 中视 (TW),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/159.ts
