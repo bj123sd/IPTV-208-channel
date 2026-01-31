@@ -769,8 +769,8 @@ TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
 寰宇新聞台720p,http://free.cnlive.club/channel/n43c34be8.m3u8?q=111.170.171.148
 寰宇新聞台720p,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=V0QGAk&tk=2nDfMgqDmiqe
 寰宇新聞台1080p,https://stream1.freetv.fun/05d08ea65b8b2d697984abf19f4545c698308338fdf8aaeac86784ab6e6ef8b0.m3u8
-临时台,#genre#
-🇭🇰香港,#genre#
+以下临时台🇭🇰,#genre#
+
 TVB 翡翠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/2.ts
 TVB 翡翠台720p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/12.ts
 TVB 翡翠台1080p(HK),http://iptvpro.pw:35451/live/加QQ群1067462089/RTu839dj48V/7.ts
