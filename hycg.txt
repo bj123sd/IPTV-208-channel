@@ -642,7 +642,8 @@ CETV1,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 家有购物,http://222.85.81.15:6060/PLTV2/3580/index.m3u8?icpid=dxrm2&servicetype=
 风尚购物,http://222.85.81.15:6060/PLTV2/3640/index.m3u8?icpid=dxrm2&servicetype=
 港澳台,#genre#
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw 
+凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx 
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
