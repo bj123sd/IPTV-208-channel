@@ -958,5 +958,10 @@ ABC,http://67.220.67.246:2347/livehttpplay?channel_id=13001
 ELTA体育1,http://67.220.67.246:2347/livehttpplay?channel_id=20043
 KTSF26,http://67.220.67.246:2347/livehttpplay?channel_id=21423
 NATGEO,http://67.220.67.246:2347/livehttpplay?channel_id=20037
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+亚太第一卫视综合,http://play2.one-tv.com/live/onetv.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8 
 
 
