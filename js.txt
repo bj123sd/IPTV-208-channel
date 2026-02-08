@@ -1,3 +1,4 @@
+#genre#
 三立新闻,http://208.87.242.79/livehttpplay?channel_id=10126
 ABC NEWS,http://208.87.242.79/livehttpplay?channel_id=20135
 ABC7 NEWS,http://208.87.242.79/livehttpplay?channel_id=13001
