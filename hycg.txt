@@ -590,6 +590,12 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 重庆|重庆红岩文化,http://38.75.136.137:98/gslb/dsdqpub/cqss.m3u8?auth=testpub
 重庆|重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
 重庆|重庆影视剧,http://38.75.136.137:98/gslb/dsdqpub/cqys.m3u8?auth=testpub
+铜梁综合,http://183.64.174.171:40123/ch1.m3u8
+璧山综合频道,http://222.179.42.129:8181/hls1.m3u8
+潼南综合频道,http://183.230.184.51:65500/tntv1.m3u8
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
+荣昌综合频道,http://183.64.181.25:40023/rongchang01.m3u8
+涪陵综合,http://183.64.215.48:1002/1.m3u8
 河南IPTV,#genre#
 CCTV1FHD,http://222.85.81.15:6060/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=
 CCTV2FHD,http://222.85.81.15:6060/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=
