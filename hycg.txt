@@ -225,11 +225,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 咪视通-44,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000027691
 咪视通-45,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000031669
 吉林地区,#genre#
-吉林综艺文化,https://hls.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8?txSecret=004397c0dd3a3c9bc232f070f3bafc7f&txTime=69832822
-吉林影视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8?txSecret=8015b02e180ea0900bf536f64cfecb70&txTime=698328B4
-吉林乡村,https://hls.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8?txSecret=40f949421185b025633c5b39458add72&txTime=698328EA
-吉林生活,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8?txSecret=85c6fce0214f04bfca9fb0b444b82d66&txTime=6983292F
-吉林都市,https://hls.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8?txSecret=167be43efdb60a00533796db58148b42&txTime=69832967
 延边综合,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 延边汉语,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 延边朝语,https://srs.iyb983.cn/video/ybtv1/index.m3u8
