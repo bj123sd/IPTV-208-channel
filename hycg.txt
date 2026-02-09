@@ -504,6 +504,7 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 百事通,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 文化旅游,http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
 四川文化旅游,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
+成华有线,https://quxian.pull.cditv.cn/live/chenghua.flv/playlist.m3u8?wsSecret=f188d07f451c66a0ded72ebcfd6c52f5&wsTime=69897435
 成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
