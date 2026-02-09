@@ -66,6 +66,7 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视,#genre#
+环球卫视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 辽宁,http://123.160.30.13:6610/PLTV1/1120/index.m3u8?IASHttpSessionId=RR15299820260120022930735886&ispcode=6
