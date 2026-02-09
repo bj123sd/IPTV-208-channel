@@ -508,6 +508,11 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 四川地区,#genre#
+峨眉电影,http://118.122.144.115:8888/newlive/live/hls/32/live.m3u8
+电影台,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
+百事通,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
+文化旅游,http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
+四川文化旅游,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
 成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
@@ -722,7 +727,7 @@ CETV1,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 家有购物,http://222.85.81.15:6060/PLTV2/3580/index.m3u8?icpid=dxrm2&servicetype=
 风尚购物,http://222.85.81.15:6060/PLTV2/3640/index.m3u8?icpid=dxrm2&servicetype=
 港澳台,#genre#
-
+邵氏动作,http://69.197.135.170:82/live/lbssdz.m3u8?jsbt=1770607165&jsbk=045100295621846ac7a84b89f8925a02
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 Astr-欢喜台,https://cdn9.163189.xyz/smt3.1.1.php?id=Huahee
@@ -761,6 +766,7 @@ CHU,http://cdn6.163189.xyz/163189/chu
 星空电影,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 DAZN1,http://208.87.242.79/livehttpplay?channel_id=10104
 DAZN2,http://208.87.242.79/livehttpplay?channel_id=10105
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 三立戏剧台,http://208.87.242.79/livehttpplay?channel_id=10125
  三立新闻,http://208.87.242.79/livehttpplay?channel_id=10126
  CATCHPLAY,http://208.87.242.79/livehttpplay?channel_id=10127
