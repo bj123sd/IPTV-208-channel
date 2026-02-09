@@ -66,6 +66,7 @@ CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 卫视,#genre#
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 辽宁,http://123.160.30.13:6610/PLTV1/1120/index.m3u8?IASHttpSessionId=RR15299820260120022930735886&ispcode=6
 江苏,http://123.160.30.14:6610/PLTV1/1000/index.m3u8?IASHttpSessionId=RR15299820260120023027735938&ispcode=6
 河南,http://123.160.30.21:6610/PLTV1/580/index.m3u8?IASHttpSessionId=RR15299820260120023123735983&ispcode=6
@@ -744,6 +745,9 @@ Astr-AEC,https://cdn9.163189.xyz/smt3.1.1.php?id=AEC
 无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线明珠台,https://cdn9.163189.xyz/smt3.1.1.php?id=pearl_twn
 香港台,https://cdn9.163189.xyz/smt3.1.1.php?id=hkphoenix_twn
+亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+Popc电影,http://rihou.cc:555/tv/[Hv]pₒₚc电影
 Astr-AoD,https://cdn9.163189.xyz/smt3.1.1.php?id=Aodhd
 Astr-全佳,https://cdn9.163189.xyz/smt3.1.1.php?id=Quanjia
 VIUTV,https://cdn9.163189.xyz/smt3.1.1.php?id=viu1_twn
