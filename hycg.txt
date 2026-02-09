@@ -504,7 +504,6 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 百事通,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 文化旅游,http://118.122.144.115:8888/newlive/live/hls/35/live.m3u8
 四川文化旅游,http://118.122.144.115:8888/newlive/live/hls/34/live.m3u8
-成华有线,https://quxian.pull.cditv.cn/live/chenghua.flv/playlist.m3u8?wsSecret=f188d07f451c66a0ded72ebcfd6c52f5&wsTime=69897435
 成都高新电视,https://livepgc.chinamcache.com/pgc/d849e3b837e34409b46124c267a8a1cf.m3u8?auth_key=1719565624-0-0-c80453df5f2edc88776ce766e497b52b
 威远综合,http://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 峨眉山综合,https://embl.emsyd.jrem.cn/dsfdsfdsfdsfsfdshfgj/wwdsfdgd.m3u8?auth_key=1718610605-0-0-23887de4a278cb108ba8936de20eb854
@@ -580,7 +579,7 @@ IPTV美人,http://49.232.181.26:6000/rtp/225.1.8.233:4120
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川文化旅游,http://183.221.92.176:50080/hls/19/index.m3u8
 四川乡村,http://scxclivepull.sctvcloud.com/live/c0b8c1c3018e1000e51198d100000000/playlist.m3u8?wsSecret=b627c9d9b2cdf4afed08253b6125fe1f&wsTime=2019657600
-重庆,#genre#
+重庆地区,#genre#
 重庆|重庆文体娱乐,http://38.75.136.137:98/gslb/dsdqpub/cqyl.m3u8?auth=testpub
 重庆|重庆社会与法,http://38.75.136.137:98/gslb/dsdqpub/cqds.m3u8?auth=testpub
 重庆|重庆新农村,http://38.75.136.137:98/gslb/dsdqpub/cqgg.m3u8?auth=testpub
