@@ -80,7 +80,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 安徽,http://123.160.30.16:6610/PLTV1/1100/index.m3u8?IASHttpSessionId=RR15300320260122143353803993&ispcode=6
 新疆,http://123.160.30.21:6610/PLTV1/1620/index.m3u8?IASHttpSessionId=RR15297220260122143511799849&ispcode=6
 四川,http://123.160.30.25:6610/PLTV1/1260/index.m3u8?IASHttpSessionId=RR15297220260122143544799864&ispcode=6
-北京,https://live-pc.xuexi.cn/merged/bjtv_merge_qhd.m3u8?auth_key=1769091391-0-17690925918366407-c2ce85d5f8e12b9cffd9f0f3775a5ee0&yid=17690925918366407
+北京,http://123.160.30.25:6610/PLTV1/1020/25545.ts?zduration=9.031944&prog_time=20260210042753&ts_min=1&ispcode=6&IASHttpSessionId=RR15301120260210042758813988&ztecid=1020
 内蒙蒙语,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 东南,http://123.160.30.21:6610/PLTV1/1400/index.m3u8?IASHttpSessionId=RR15301420260122143737806487&ispcode=6
 东方,http://123.160.30.20:6610/PLTV1/980/index.m3u8?IASHttpSessionId=RR15301420260122143805806493&ispcode=6
